@@ -1,0 +1,137 @@
+.caixa_relogio2 {
+    cursor: pointer;
+    width: 30vw;
+    height: 30vw;
+    position: absolute;
+    top: 1%;
+    left: 52%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1vw 1.5vw 1.2vw 1vw;
+    background-color: rgb(13, 26, 71);
+    border: solid .5vw rgb(68, 92, 114);
+    border-radius: 50%;
+    box-shadow: 0 0 1vw rgb(17, 63, 68),
+                inset 0 0 0.5vw rgb(78, 77, 77);
+}
+.informativo {
+    position: absolute;
+    top: 105%;
+    border: solid 0.05vw rgb(109, 124, 161);
+    border-radius: 5vw;
+    padding: 0.8vw;
+    background-color: rgb(182, 206, 207);
+    color: aliceblue;
+    box-shadow: 0vw 0vw 0.5vw #5b5d5f;
+}
+.data2_op1{
+    font-size: 1.5vw;
+    padding: 0% 0% 0% 25%;
+    color: cadetblue;
+}
+
+.horario2_op1{
+    font-size: 7vw;
+    color: aliceblue;
+}
+#op2 {
+    font-family: monospace;
+}
+.data2_op2{
+    font-size: 1.5vw;
+    padding: 0% 0% 0% 25%;
+    color: cadetblue;
+}
+
+.horario2_op2{
+    font-size: 7vw;
+    color: cadetblue;
+    text-shadow: 0 0 0.9vw #1376e8;
+}
+#op3 {
+    font-size: unset;
+    font-family: cursive;
+    padding: 0% 0% 0% 10%;
+}
+
+.horario2_op3{
+    font-size: 5vw;
+    color: aliceblue;
+}
+
+
+.horario2_op4{
+    font-size: 5vw;
+    color: aliceblue;
+}
+.data2_op4{
+    font-size: 1.5vw;
+    color: aliceblue;
+}
+
+
+.horario2_op5{
+    font-size:3.5vw;
+    color: aliceblue;
+}
+
+
+.horario2_op6{
+    font-size:3.5vw;
+    color: aliceblue;
+}
+
+
+/* .caixa_relogio2 .relogio2{
+    width:100%;
+    height: 100%;
+    background: url(clock.png);
+    background-size: cover;
+}
+#circulo2{
+    position: relative;
+    z-index: 1;
+    width: 10%;
+    height: 10%;
+    left: 45%;
+    top: 45%;
+    border-radius: 50%;
+    background-color: rgb(102, 98, 3);
+    box-shadow: 0 0 0.4vw black;
+}
+.segundo2 {
+    width: 0;
+    height: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin: -40% -1% 0% 0%;
+    padding: 40% 1% 0% 0%;
+    background: rgb(112, 9, 9);
+    transform-origin: 50% 100%;
+}
+.minuto2 {
+    width: 0;
+    height: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin: -36% 0% 0% -1%;
+    padding: 35% 3% 0% 0%;
+    background: rgba(86, 8, 8, 0.863);
+    transform-origin: 50% 100%;
+    border-radius: 35% 35% 0% 0%
+}
+.hora2 {
+    width: 0;
+    height: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin: -30% 0% 0% -1%;
+    padding: 0% 0% 21% 3%;
+    background: rgb(173, 38, 38);
+    transform-origin: 50% 100%;
+    border-radius: 50% 50% 0% 0%;
+} */
